@@ -4,7 +4,7 @@
   <subtitle><![CDATA[My Work is From the Heart]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-01-22T12:29:03.000Z</updated>
+  <updated>2016-01-22T22:24:32.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://yoursite.com/2016/01/23/hello-world/"/>
+    <id>http://yoursite.com/2016/01/23/hello-world/</id>
+    <published>2016-01-22T22:24:32.000Z</published>
+    <updated>2016-01-22T22:24:32.000Z</updated>
+    <content type="html"><![CDATA[<p>Hello World<br>It’s the first post of my blog.<br>My interest is Machine Learning and Information Retrieval, so I may share my ideas about them in this blog.<br>It’s a test for MathJax<br>$$E = mc^2$$<br><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">print(hello world!)</span><br></pre></td></tr></table></figure></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Hello World<br>It’s the first post of my blog.<br>My interest is Machine Learning and Information Retrieval, so I may share my ideas abou]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Introduction To Artificial Intelligence]]></title>
@@ -27,20 +41,6 @@
     </summary>
     
       <category term="Artificial Intelligence" scheme="http://yoursite.com/tags/Artificial-Intelligence/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://yoursite.com/2016/01/22/hello-world/"/>
-    <id>http://yoursite.com/2016/01/22/hello-world/</id>
-    <published>2016-01-21T22:35:25.000Z</published>
-    <updated>2016-01-21T22:35:25.000Z</updated>
-    <content type="html"><![CDATA[<p>Hello World<br>It’s the first post of my blog.<br>My interest is Machine Learning and Information Retrieval, so I may share my ideas about them in this blog</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>Hello World<br>It’s the first post of my blog.<br>My interest is Machine Learning and Information Retrieval, so I may share my ideas abou]]>
-    </summary>
     
   </entry>
   
