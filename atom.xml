@@ -4,7 +4,7 @@
   <subtitle><![CDATA[My Work is From the Heart]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-01-21T22:35:25.000Z</updated>
+  <updated>2016-01-22T11:08:43.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Introduction To Artificial Intelligence]]></title>
+    <link href="http://yoursite.com/2016/01/22/intro2AI/"/>
+    <id>http://yoursite.com/2016/01/22/intro2AI/</id>
+    <published>2016-01-22T10:57:55.000Z</published>
+    <updated>2016-01-22T11:08:43.000Z</updated>
+    <content type="html"><![CDATA[<p>Artificial Intelligence(AI) is a pretty new topic in science and engineering, but one of its sub-topics called Machine Learning are much more popular than AI recently. People prefer talking about machine learning, computer vision rather than AI since AI sound like a fictional word.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Artificial Intelligence(AI) is a pretty new topic in science and engineering, but one of its sub-topics called Machine Learning are much ]]>
+    </summary>
+    
+      <category term="Artificial Intelligence" scheme="http://yoursite.com/tags/Artificial-Intelligence/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
