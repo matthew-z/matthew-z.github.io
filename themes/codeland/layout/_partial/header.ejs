@@ -1,0 +1,30 @@
+<div id="header">
+  <div id="header-outer" class="outer">
+    <div id="header-inner" class="inner">
+      <div id="header-title">
+        <h1 id="logo-wrap">
+          <a href="<%- url_for() %>" id="logo"><%= config.title %>
+          <% if (theme.subtitle){ %>
+              <span id="subtitle"><%= theme.subtitle %></span>
+          <% } %>
+          </a>
+        </h1>
+      </div>
+      <nav id="sub-nav">
+        <% if (theme.rss){ %>
+          <a id="nav-rss-link" class="nav-icon" href="<%- theme.rss %>" title="RSS Feed"></a>
+        <% } %>
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        <% for (var i in theme.menu){ %>
+          <a class="main-nav-link" href="<%- url_for(theme.menu[i]) %>"><%= i %></a>
+        <% } %>
+      </nav>
+      <div id="search-form-wrap">
+        <%- search_form({button: '&#xF002;'}) %>
+      </div>
+    </div>
+  </div>
+</div>
