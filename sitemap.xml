@@ -2,18 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
-    <lastmod>2016-01-22T12:29:02.000Z</lastmod>
+    <loc>http://yoursite.com/all-archives/index.html</loc>
+    <lastmod>2016-01-22T22:11:53.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/all-tags/index.html</loc>
+    <lastmod>2016-01-22T22:11:21.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/all-categories/index.html</loc>
+    <lastmod>2016-01-22T22:10:52.000Z</lastmod>
   </url>
   
   <url>
     <loc>http://yoursite.com/2016/01/22/intro2AI/</loc>
-    <lastmod>2016-01-22T12:24:00.000Z</lastmod>
+    <lastmod>2016-01-22T12:29:03.000Z</lastmod>
   </url>
   
   <url>
-    <loc>http://yoursite.com/explore/index.html</loc>
-    <lastmod>2016-01-22T11:33:08.000Z</lastmod>
+    <loc>http://yoursite.com/about/index.html</loc>
+    <lastmod>2016-01-22T12:29:02.000Z</lastmod>
   </url>
   
   <url>
