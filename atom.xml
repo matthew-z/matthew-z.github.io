@@ -4,7 +4,7 @@
   <subtitle><![CDATA[My Work is From the Heart]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://matthew-z.github.io/"/>
-  <updated>2016-01-24T08:26:56.000Z</updated>
+  <updated>2016-01-24T08:37:50.000Z</updated>
   <id>http://matthew-z.github.io/</id>
   
   <author>
@@ -19,18 +19,22 @@
     <link href="http://matthew-z.github.io/2016/01/24/intro2AI/"/>
     <id>http://matthew-z.github.io/2016/01/24/intro2AI/</id>
     <published>2016-01-24T10:57:55.000Z</published>
-    <updated>2016-01-24T08:26:56.000Z</updated>
-    <content type="html"><![CDATA[<!-- excerpt --></p>
+    <updated>2016-01-24T08:37:50.000Z</updated>
+    <content type="html"><![CDATA[<!-- excerpt -->
 <div class="alert warning"><p>This article has not been completed.</p>
 </div>
 <!-- toc -->
 <h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>Artificial Intelligence(AI) is a pretty new topic in science and engineering, but one of its sub-topics called Machine Learning are much more popular than AI recently.People prefer talking about some fields, e.g. machine learning and computer vision rather than AI since AI sound like a fictional word after realised that a strong AI like “Jarvis” will not appear in a short time (say 20 years).</p>]]></content>
     <summary type="html">
-    <![CDATA[<p>Artificial Intelligence(AI) is a pretty new topic in science and engineering , but one of its sub-topics called Machine Learning are much more popular than AI recently.<br>]]>
+    <![CDATA[<p>Artificial Intelligence(AI) is a pretty new topic in science and engineering , but one of its sub-topics called Machine Learning are much more popular than AI recently.   </p>]]>
     
     </summary>
     
       <category term="Artificial Intelligence" scheme="http://matthew-z.github.io/tags/Artificial-Intelligence/"/>
+    
+      <category term="Computer Science" scheme="http://matthew-z.github.io/categories/Computer-Science/"/>
+    
+      <category term="Artificial Intelligence" scheme="http://matthew-z.github.io/categories/Computer-Science/Artificial-Intelligence/"/>
     
   </entry>
   
@@ -38,8 +42,8 @@
     <title><![CDATA[Hello World]]></title>
     <link href="http://matthew-z.github.io/2016/01/24/hello-world/"/>
     <id>http://matthew-z.github.io/2016/01/24/hello-world/</id>
-    <published>2016-01-24T08:27:57.000Z</published>
-    <updated>2016-01-24T08:27:57.000Z</updated>
+    <published>2016-01-24T08:37:50.000Z</published>
+    <updated>2016-01-24T08:37:50.000Z</updated>
     <content type="html"><![CDATA[<p>It’s the first post of my blog.</p>
 <a id="more"></a>
 <p>My interest is Machine Learning and Information Retrieval, so I may share my ideas about them in this blog.</p>
@@ -50,6 +54,8 @@
     <![CDATA[<p>It’s the first post of my blog.</p>]]>
     
     </summary>
+    
+      <category term="Life" scheme="http://matthew-z.github.io/categories/Life/"/>
     
   </entry>
   
