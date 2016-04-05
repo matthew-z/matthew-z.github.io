@@ -71,4 +71,4 @@ deploy:
   type: git
   repository:
     github: git@github.com:matthew-z/matthew-z.github.io.git,master
-    gitcafe: git@gitcafe.com:matthew-z/matthew-z.git,gitcafe-pages
+   # gitcafe: git@gitcafe.com:matthew-z/matthew-z.git,gitcafe-pages
