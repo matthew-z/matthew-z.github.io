@@ -4,7 +4,7 @@
   <subtitle><![CDATA[My Work is From the Heart]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://matthew-z.github.io/"/>
-  <updated>2016-01-24T08:52:08.000Z</updated>
+  <updated>2016-01-24T08:50:49.000Z</updated>
   <id>http://matthew-z.github.io/</id>
   
   <author>
@@ -13,30 +13,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title><![CDATA[Subfields of Artificial Intelligence(draft)]]></title>
-    <link href="http://matthew-z.github.io/2016/01/24/intro2AI/"/>
-    <id>http://matthew-z.github.io/2016/01/24/intro2AI/</id>
-    <published>2016-01-24T10:57:55.000Z</published>
-    <updated>2016-01-24T08:52:08.000Z</updated>
-    <content type="html"><![CDATA[<!-- excerpt -->
-<div class="alert warning"><p>This article has not been completed.</p>
-</div>
-<!-- toc -->
-<h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>Artificial Intelligence(AI) is a pretty new topic in science and engineering, but one of its sub-topics called Machine Learning are much more popular than AI recently.People prefer talking about some fields, e.g. machine learning and computer vision rather than AI since AI sound like a fictional word after realised that a strong AI like “Jarvis” will not appear in a short time (say 20 years).</p>]]></content>
-    <summary type="html">
-    <![CDATA[<p>Artificial Intelligence(AI) is a pretty new topic in science and engineering , but one of its sub-topics called Machine Learning are much more popular than AI recently.   </p>]]>
-    
-    </summary>
-    
-      <category term="Artificial Intelligence" scheme="http://matthew-z.github.io/tags/Artificial-Intelligence/"/>
-    
-      <category term="Computer Science" scheme="http://matthew-z.github.io/categories/Computer-Science/"/>
-    
-      <category term="Artificial Intelligence" scheme="http://matthew-z.github.io/categories/Computer-Science/Artificial-Intelligence/"/>
-    
-  </entry>
   
   <entry>
     <title><![CDATA[Hello World!]]></title>
