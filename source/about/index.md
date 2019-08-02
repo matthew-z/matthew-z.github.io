@@ -6,7 +6,7 @@ comments: false
 
 #### Zhaohao Zeng
 
-Zhaohao Zeng is a second-year Ph.D student in the Department of Computer Science at Waseda University, Japan. He works with Professor Tetsuya Sakai, and his primary research interests are Information Retrieval and Natural Language Processing.  In addition, he was working at Microsoft and Apple Inc. for internship. Before coming to Japan, he received the B.E degree from the University of Liverpool, UK.
+Zhaohao Zeng is a second-year Ph.D student in the Department of Computer Science at Waseda University, Japan. He works with Professor Tetsuya Sakai, and his primary research interests include Information Retrieval, Natural Language Processing and Machine Learning.  In addition, he was working at Microsoft and Apple Inc. for internship. Before coming to Japan, he received the BE degree from the University of Liverpool, UK.
 
 
 
