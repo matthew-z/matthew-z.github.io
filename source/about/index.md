@@ -6,9 +6,11 @@ comments: false
 
 #### Zhaohao Zeng
 
-I am a CS PhD student, and my research interests are in the areas of machine learning, computational linguistics and information retrieval. I obtained a B.E in Electronics from Liverpool. Currently I am a member of [the Real Sakai Lab](http://sakailab.com), Waseda University. I would like to share my ideas and thoughts in my blog.
+Zhaohao Zeng is a second-year Ph.D student in the Department of Computer Science at Waseda University, Japan. He works with Professor Tetsuya Sakai, and his primary research interests are Information Retrieval and Natural Language Processing.  In addition, he was working at Microsoft and Apple Inc. for internship. Before coming to Japan, he received the B.E degree from the University of Liverpool, UK.
 
-Please check my [LinkedIn](https://www.linkedin.com/in/zhaohaozeng/en) profile or [CV](/about/Zhaohao_Zeng_cv.pdf) for more details.
+
+
+[LinkedIn](https://www.linkedin.com/in/zhaohaozeng/en) profile or [CV](/about/Zhaohao_Zeng_cv.pdf) for more details.
 
 ---
 
